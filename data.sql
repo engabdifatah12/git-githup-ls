@@ -12,3 +12,4 @@ create table students (
 ('Charlie', 13, '8th'),
 ('David', 16, '11th'),
 ('Eva', 14, '9th');
+update students set age = 15 where name = 'Alice';
