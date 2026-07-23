@@ -17,3 +17,6 @@ p{
 .btn{
     color: bisque;
 }
+.btn:focus{
+    background-color: aliceblue;
+}
