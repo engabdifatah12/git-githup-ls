@@ -3,3 +3,8 @@ nickame eng shiikha
 maxamed abdi hassan
 4 sacdiyo cabdi 
 ifrah
+<<<<<<< Updated upstream
+=======
+cumar
+hodan nour farah
+>>>>>>> Stashed changes
