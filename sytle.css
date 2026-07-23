@@ -29,3 +29,6 @@ audio{
 image{
     width: 78px;
 }
+video{
+    position: relative;
+}
