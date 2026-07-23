@@ -20,3 +20,6 @@ p{
 .btn:focus{
     background-color: aliceblue;
 }
+a{
+color: #000;
+}
