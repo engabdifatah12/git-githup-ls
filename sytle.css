@@ -23,3 +23,6 @@ p{
 a{
 color: #000;
 }
+audio{
+    visibility: none;
+}
